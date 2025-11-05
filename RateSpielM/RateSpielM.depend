@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1761871205 source:c:\users\tn\documents\c\ratespielm\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1762248594 source:c:\users\ar.yahyazadeh-amin\documents\c\ratespielm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

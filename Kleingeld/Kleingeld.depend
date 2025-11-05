@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1761823431 source:c:\users\ar.yahyazadeh-amin\documents\c\kleingeld\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

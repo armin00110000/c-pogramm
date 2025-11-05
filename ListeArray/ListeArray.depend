@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1761908694 source:c:\users\ar.yahyazadeh-amin\documents\c\listearray\main.c
+	<stdio.h>
+	<string.h>
+
